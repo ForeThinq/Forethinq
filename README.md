@@ -4,9 +4,9 @@
 <p align="center">I build systems that catch every lead, qualify it, and follow up automatically —<br/>so nothing slips through while you're busy doing the actual work.</p>
 <p align="center">🟢 <strong>Available for new projects</strong> — fixed price, small paid test welcome, working worldwide.</p>
 
-<p align="center"><strong>⚙️ Automation</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/n8n-0A3D62?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/> <img src="https://img.shields.io/badge/Make-0A3D62?style=for-the-badge&logo=make&logoColor=white" alt="Make"/></p>
-<p align="center"><strong>🤖 AI</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/OpenAI-0A3D62?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/Claude-0A3D62?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/LangChain-0A3D62?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></p>
-<p align="center"><strong>🐍 Code &amp; data</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-0A3D62?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Google_Sheets-0A3D62?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/></p>
+<p align="center"><strong>⚙️ Automation</strong>&nbsp;&nbsp;<img src="./assets/badges/n8n.svg" alt="n8n"/> <img src="./assets/badges/make.svg" alt="Make"/></p>
+<p align="center"><strong>🤖 AI</strong>&nbsp;&nbsp;<img src="./assets/badges/openai.svg" alt="OpenAI"/> <img src="./assets/badges/claude.svg" alt="Claude"/> <img src="./assets/badges/langchain.svg" alt="LangChain"/></p>
+<p align="center"><strong>🐍 Code &amp; data</strong>&nbsp;&nbsp;<img src="./assets/badges/python.svg" alt="Python"/> <img src="./assets/badges/google-sheets.svg" alt="Google Sheets"/></p>
 
 <p align="center"><a href="#what-i-build">What I build</a> · <a href="#working-demos">Working demos</a> · <a href="#how-i-work">How I work</a> · <a href="#contact">Contact</a></p>
 
@@ -51,9 +51,9 @@ Publishing next, in order: a **WhatsApp AI assistant** that answers only from a 
 <p align="center">Tell me where leads, messages or data currently fall through — I'll reply with what I would automate first, and what I would not automate yet.</p>
 
 <p align="center">
-  <a href="mailto:forethinq@gmail.com"><img src="https://img.shields.io/badge/Email-forethinq@gmail.com-0A3D62?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.reddit.com/user/ForeThinq/"><img src="https://img.shields.io/badge/Reddit-u/ForeThinq-0A3D62?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
-  <a href="https://community.n8n.io/u/forethinq"><img src="https://img.shields.io/badge/n8n_Community-@forethinq-0A3D62?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Community"/></a>
+  <a href="mailto:forethinq@gmail.com"><img src="./assets/badges/email.svg" alt="Email"/></a>
+  <a href="https://www.reddit.com/user/ForeThinq/"><img src="./assets/badges/reddit.svg" alt="Reddit"/></a>
+  <a href="https://community.n8n.io/u/forethinq"><img src="./assets/badges/n8n-community.svg" alt="n8n Community"/></a>
 </p>
 
 <p align="center"><sub>Fixed price · Built in your accounts · Working worldwide</sub></p>
