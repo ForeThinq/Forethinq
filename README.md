@@ -8,7 +8,7 @@
 <p align="center"><strong>🤖 AI</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/OpenAI-0A3D62?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/Claude-0A3D62?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/LangChain-0A3D62?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></p>
 <p align="center"><strong>🐍 Code &amp; data</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-0A3D62?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Google_Sheets-0A3D62?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/></p>
 
-<p align="center"><a href="#what-i-build">What I build</a> · <a href="#how-i-work">How I work</a> · <a href="#contact">Contact</a></p>
+<p align="center"><a href="#what-i-build">What I build</a> · <a href="#working-demos">Working demos</a> · <a href="#how-i-work">How I work</a> · <a href="#contact">Contact</a></p>
 
 ---
 
@@ -22,6 +22,16 @@ Not generic "AI services" — each build is a working system with validation, de
 | **WhatsApp AI assistants** | Answers from your own prices & policies, qualifies, books, logs every chat to Sheets/CRM, human handoff when needed |
 | **AI data extraction** | Invoices, forms, PDFs & messy CSVs → clean, validated rows — duplicates removed; scraping & list cleanup with AI enrichment |
 | **Workflow fixes & rescues** | Broken n8n / Make automations diagnosed, rebuilt & monitored with failure alerts |
+
+## Working demos
+
+Don't take the table above on faith — run the code.
+
+| Demo | What it proves | Status |
+|---|---|---|
+| **[Inbound Lead Triage](https://github.com/ForeThinq/lead-triage-n8n)** | Form → dedupe → AI score (HOT / WARM / COLD) → Google Sheets → instant Gmail alert, with an error workflow behind it | Live and tested — real submissions scored 95, 95 and 62, duplicate correctly skipped |
+
+Publishing next, in order: a **WhatsApp AI assistant** that answers only from a business's own price list and hands off instead of guessing, and an **AI data extraction** tool that turns messy invoice files into one clean, deduped CSV (self-test verified against its expected output).
 
 ## How I work
 
